@@ -1,0 +1,16 @@
+torch>=2.3
+torchvision>=0.18
+transformers>=4.45
+accelerate>=0.33
+datasets>=2.20
+peft>=0.12
+bitsandbytes>=0.43
+trl>=0.9
+pillow>=10.0
+numpy>=1.26
+pyyaml>=6.0
+tqdm>=4.66
+requests>=2.32
+gradio>=4.44
+wandb>=0.17
+pytest>=8.0
