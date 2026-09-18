@@ -17,7 +17,6 @@ Proje, Google Colab'in ücretsiz **T4 GPU** donanım kısıtları (15 GB VRAM & 
 - [Neden "Encoder-Free" (Görsel Kodlayıcısız)?](#-neden-encoder-free-görsel-kodlayıcısız)
 - [Mimari ve Çalışma Mantığı](#-mimari-ve-çalışma-mantığı)
 - [Eğitim Stratejisi ve MLOps Dayanıklılığı](#-eğitim-stratejisi-ve-mlops-dayanıklılığı)
-- [⚡ Hızlı Başlangıç (Google Colab & Yerel)](#-hızlı-başlangıç-google-colab--yerel)
 - [📂 Proje Dizin Yapısı](#-proje-dizin-yapısı)
 - [Model Seçimi ve Öneriler](#-model-seçimi-ve-öneriler)
 - [📜 Kaynakça](#-kaynakça)
@@ -170,7 +169,7 @@ Bu projede test ve deneme amaçlı iki farklı dekoder (dil modeli) desteklenmek
 ---
 
 
-## 📜 Lisans ve Kaynakça
+## 📜 Kaynakça
 
 - **Referans Çalışma**: [Train Your Own Encoder-Free VLM in $100](https://huggingface.co/spaces/HuggingFaceM4/encoder-free-vlm)
 - **Veri Seti**: [HuggingFaceM4/FineVision](https://huggingface.co/datasets/HuggingFaceM4/FineVision)
